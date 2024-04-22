@@ -29,6 +29,9 @@ import {
     jonathan,
     viji,
     zaid,
+    python,
+    kotlin,
+    java,
   } from "../assets";
   
   export const navLinks = [
@@ -56,7 +59,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Genrative AI Developer",
+      title: "Project Manager",
       icon: backend,
     },
     {
@@ -79,16 +82,24 @@ import {
       icon: javascript,
     },
     {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "Java",
+      icon: java,
+    },
+    {
+      name: "Kotlin",
+      icon: kotlin,
+    },
+    {
       name: "TypeScript",
       icon: typescript,
     },
     {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
@@ -99,43 +110,12 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
   const experiences = [
-    {
-      title: "Pool Monitor",
-      company_name: "Savannah Village Pool",
-      icon: pool,
-      iconBg: "#383E56",
-      date: "May 2016 - Sep 2018",
-      points: [
-        "Upheld safety compliance and regulations within the pool area, maintaining immaculate conditions in restrooms, showers, and pool deck to ensure a clean and presentable environment",
-        "Managed member interactions effectively, greeting and checking in members with a customer-focused approach",
-        "Oversaw inventory management, ensuring adequate supply of pool tools, toys, cleaning materials, and snacks to meet operational needs",
-        "Conducted hourly inspections of the pool deck, proactively skimming for and removing obstacles and trash to maintain a safe and clean environment",
-        "Addressed member complaints in a professional and empathetic manner, documenting issues, escalating complex concerns to supervisor, and ensuring customer satisfaction",
-        "Regularly checked and tested water chemicals at four-hour intervals to maintain safe levels, preventing potential health hazards for patrons",
-      ],
-    },
     {
       title: "Monogrammer",
       company_name: "Lands' End",

@@ -47,8 +47,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I'm a full-stack ai solutions software engineer with big dreams and ambitions. I'm actively seeking opportunities within the tech industry where I can leverage my extensive background in computer science and strong communication abilities. 
-       My expertise spans across various programming languages, coupled with a deep understanding of artificial intelligence technologies. I am passionate about applying my diverse skill set to 
+       I'm a full-stack software engineer with big dreams and ambitions. I'm actively seeking opportunities within the tech industry where I can leverage my extensive background in computer science and strong communication abilities. 
+       My expertise spans across various programming languages, coupled with an understanding of artificial intelligence technologies. I am passionate about applying my diverse skill set to 
        contribute to an organization's success, driving innovation and solving complex challenges
       </motion.p>
 

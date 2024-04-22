@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import kotlin from "./tech/kotlin.png";
+import python from "./tech/python.png";
+import java from "./tech/java.png";
 
 import appfactory from "./company/appfactory.svg";
 import shopify from "./company/shopify.png";
@@ -60,6 +63,9 @@ export {
   tailwind,
   typescript,
   threejs,
+  kotlin,
+  python,
+  java,
   appfactory,
   landsend,
   shopify,
