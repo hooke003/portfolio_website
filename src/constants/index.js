@@ -82,20 +82,20 @@ import {
       icon: javascript,
     },
     {
-      name: "Python",
-      icon: python,
+      name: "TypeScript",
+      icon: typescript,
     },
     {
       name: "Java",
       icon: java,
     },
     {
-      name: "Kotlin",
-      icon: kotlin,
+      name: "Python",
+      icon: python,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Kotlin",
+      icon: kotlin,
     },
     {
       name: "React JS",
