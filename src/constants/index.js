@@ -32,6 +32,7 @@ import {
     python,
     kotlin,
     java,
+    logo
   } from "../assets";
   
   export const navLinks = [
@@ -123,12 +124,9 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2019 - Aug 2020",
       points: [
-        "Demonstrated high-level proficiency in operating sewing machines for precise embroidery of names, initials, or decorative designs on various items such as totes, towels, blankets, stockings, lunch boxes, and backpacks",
-        "Accurately interpreted work orders to determine specific types and locations of embroidery, ensuring detailed compliance with requirements",
-        "Displayed meticulous attention to detail by manually centering each monogram, ensuring aesthetic consistency and quality",
-        "Vigilantly monitored sewing operations to detect any defects in stitching, quickly identifying machine malfunctions and promptly notifying supervisors to minimize downtime",
-        "Upheld high standards of product quality and ensured timely production, consistently meeting deadlines",
-        "Maintained an exceptional attendance record, punctually arriving to work on a consistent basis, demonstrating commitment and reliability",
+        "Operated sewing machines to embroider names, initials, and designs on items like totes, towels, and backpacks",
+        "Interpreted work orders to ensure compliance with specific embroidery requirements and locations",
+        "Maintained attention to detail by manually centering monograms and monitoring stitching for defects or machine issues",
       ],
     },
     {
@@ -138,12 +136,9 @@ import {
       iconBg: "#383E56",
       date: "Feb 2022 - May 2023",
       points: [
-        "Managed daily operations of athletic equipment and ensured thorough laundering of athletic apparel for all varsity sports",
-        "Implemented and enforced university policies and procedures, including facility guidelines, space priorities, access protocols, standard operating procedures, and emergency action plans, with an emphasis on achieving zero tolerance",
-        "Demonstrated effective comprehension of verbal and written instructions for daily, weekly, and annual facility and equipment cleaning routines",
-        "Adhered to established cleaning protocols, ensuring consistent cleanliness and maintenance of facilities",
-        "Delivered friendly and efficient customer service to facility patrons, fostering a welcoming environment",
-        "Established and maintained cooperative working relationships with faculty, staff, administrators, student organizations, public and private agencies, and SAC members, promoting effective collaboration",
+        "Managed athletic equipment operations and ensured proper laundering of apparel for all sports.",
+        "Enforced university policies, facility guidelines, and cleaning protocols to maintain safety and cleanliness standards",
+        "Delivered excellent customer service and built collaborative relationships with staff, faculty, and organizations",
       ],
     },
     {
@@ -153,13 +148,21 @@ import {
       iconBg: "#E6DEDD",
       date: "Dec 2021 - Jul 2023",
       points: [
-        "Effectively managed projects, utilizing exceptional organizational skills to schedule and lead productive meetings and deliver successful demonstrations ",
-        "Proactively worked with clients to understand and meet their project requirements, successfully gathering, organizing, and documenting their needs through direct collaboration",
-        "Demonstrated strong communication and teaching skills by creating and presenting informational seminars on software engineering topics to help other students expand their knowledge",
-        "Improved application architecture and resolved bugs by refactoring and debugging existing applications through the implementation of modularization techniques",
-        "Engineered solid and scalable Android applications that adhered to best practices by utilizing guidelines and resources directly from Google's documentation",
-        "Acquired knowledge of new programming languages and skills as required for assigned projects, demonstrating a commitment to continual learning and professional development",
-        "Improved project maintainability by developing comprehensive technical documentation and consistently commenting code for work performed on projects",
+        "Managed projects, organized and ran meetings, delivered demos and collaborated closely with clients to meet their needs",
+        "Improved app architecture, engineered scalable apps following best practices and created technical documentation for maintainability",
+        "Quickly learned and adapted to new technologies",
+        "Utilized strong communication skills and presented technical seminars",
+      ],
+    },
+    {
+      title: "Software Engineer",
+      company_name: "Independent Software Consulting/Contracting",
+      icon: logo,
+      iconBg: "#E6DEDD",
+      date: "Jul 2023 - Present",
+      points: [
+        "Develops and maintains scalable full stack software applications using various technologies ensuring performance and user satisfaction",
+        "Continuously adapts andlearns to stay up to date on industry trends and technological advancements, applying this knowledge to projects",
       ],
     },
   ];
